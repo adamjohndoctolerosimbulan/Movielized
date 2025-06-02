@@ -1,8 +1,0 @@
-{
-    "name": "movielized-frontend",
-    "version": "1.0.0",
-    "scripts": {
-        "start": "npx serve .",
-        "build": "echo 'No build step needed for vanilla JS'"
-    }
-}
